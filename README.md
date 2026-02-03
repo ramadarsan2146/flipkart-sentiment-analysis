@@ -22,6 +22,3 @@ The application is deployed as a Streamlit web app for real-time sentiment analy
 
 Due to AWS account constraints, deployment is done on Streamlit Cloud.
 The same application is AWS EC2 compatible without any code changes.
-
-## Live App
-(Insert Streamlit link here)
